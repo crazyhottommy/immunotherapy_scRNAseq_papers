@@ -18,3 +18,5 @@
 * 2021 Cancer Cell [Single-cell sequencing links multiregional immune landscapes and tissue-resident T cells in ccRCC to tumor topology and therapy efficacy](https://pubmed.ncbi.nlm.nih.gov/33861994/)
 
 * 2021 Nature [Transcriptional programs of neoantigen-specific TIL in anti-PD-1-treated lung cancers](https://www.nature.com/articles/s41586-021-03752-4)
+
+* 2021 Cancer Cell [Single-cell analyses reveal key immune cell subsets associated with response to PD-L1 blockade in triple-negative breast cancer](https://pubmed.ncbi.nlm.nih.gov/34653365/)
